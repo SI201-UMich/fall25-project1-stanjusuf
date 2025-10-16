@@ -1,0 +1,11 @@
+Year,Island,Species,Sex,Distribution Shape
+2007,Biscoe,Adelie,male,left-skewed
+2007,Biscoe,Gentoo,female,left-skewed
+2007,Dream,Adelie,male,right-skewed
+2007,Dream,Chinstrap,female,left-skewed
+2008,Torgersen,Adelie,male,right-skewed
+2008,Dream,Adelie,male,left-skewed
+2008,Dream,Chinstrap,male,right-skewed
+2009,Biscoe,Adelie,female,left-skewed
+2009,Biscoe,Gentoo,female,left-skewed
+2009,Dream,Chinstrap,female,left-skewed
